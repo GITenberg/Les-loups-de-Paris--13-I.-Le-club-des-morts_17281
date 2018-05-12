@@ -1,0 +1,29 @@
+_repo: Les-loups-de-Paris--13-I.-Le-club-des-morts_17281
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lermina, Jules
+    alias: Lermina, Jules Hippolyte
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '7273'
+    url: http://www.gutenberg.org/2009/agents/7273
+    wikipedia: http://fr.wikipedia.org/wiki/Jules_Lermina
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17281'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Paris (France) -- Fiction'
+title: "Les loups de Paris\r\nI. Le club des morts"
+url: http://www.gutenberg.org/ebooks/17281
