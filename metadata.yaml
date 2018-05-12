@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7273
     wikipedia: http://fr.wikipedia.org/wiki/Jules_Lermina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17281#Les-loups-de-Paris--13-I.-Le-club-des-morts
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-12-11'
 gutenberg_type: Text
